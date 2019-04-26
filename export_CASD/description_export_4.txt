@@ -1,0 +1,12 @@
+Les fichier .ipynb sont des notebooks Jupyter qui peuvent être ouver via l'application Jupyter disponible via WinPython.
+Le Jupyter notebook contient l'ensemble du code ayant servi à générer le résultat. Je pense que les variables sont assez claire.
+Dans les faits c'est un simple fichier Json.
+
+Ils contiennent un ensemble de régressions et de statistiques descriptives cherchant a établir la réaction des ménages à l'abaissemnt du plafond du quotient familial en France.
+
+
+4 .png sont ajouté et sont des corrections esthétique de graphs tiré de mon dernier export sur la coopération entre couples cohabitants. 
+
+Merci d'avance pour l'export,
+
+Adrien Pacifico
